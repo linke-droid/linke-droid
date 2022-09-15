@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @linke-droid
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning information architecture 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me liinus.ingvarsson@gmail.com
 
 <!---
